@@ -26,12 +26,14 @@ wheels/
 # Virtual Environment
 venv/
 ENV/
+venv311/
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+.cursor/
 
 # OS
 .DS_Store
